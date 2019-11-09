@@ -1,0 +1,49 @@
+		.log_form {
+		    margin-left: 30%;
+		    margin-right: 30%;
+		}
+
+		.from_ele {
+		    margin-top: 20px;
+		    margin-bottom: 20px;
+		}
+
+		input.form-control {
+		    padding: 10px;
+		    border-radius: 6px;
+		    display: block;
+		    width: 100%;
+		    line-height: 1.5;
+		    background-color: #ffff;
+		    border: 1px solid #d8caca;
+		    font-family: 'Roboto Condensed', sans-serif;
+		    font-size: 16px;
+		}
+		button.btn_primary {
+		    display: inline-block;
+		    background-color: #4CAF50;
+		    padding: 8px 34px;
+		    color: #ffff;
+		    border: 1px solid;
+		    line-height: 1.5;
+		    font-family: 'Roboto Condensed', sans-serif;
+		    font-size: 18px;
+		}
+		button:hover {
+			    background-color: #499c4a;
+			}
+		.heading {
+		    text-align: center;
+		    color: #4caf50;
+		    font-size: 24px;
+		    font-family: 'Roboto Condensed', sans-serif;
+		}
+
+		span#error_msg {
+		    color: #ff2020;
+		}
+
+		img.thumbnail_img {
+		    max-width: 72%;
+		    max-height: 57px;
+		}
